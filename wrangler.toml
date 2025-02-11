@@ -14,3 +14,4 @@ enabled = true
 binding = "DB"
 database_name = "webmoov-db"
 database_id = "ec06f417-13b1-4edf-832e-4d4f9fd9c66a"
+migrations_dir = "drizzle"
